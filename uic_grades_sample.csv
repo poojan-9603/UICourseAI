@@ -1,0 +1,24 @@
+subject,class_num,class_title,dept_code,dept_name,A,B,C,D,F,adv,credit,deferred,incomplete,non_graded,not_reported,O,PR,satisfactory,unsatisfactory,withdrawn,instructor,total_students,semester
+CS,582,Information Retrieval,2699,Computer Science,34,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Caragea, Cornelia Alexandra",45,FA18
+CS,582,Information Retrieval,2699,Computer Science,15,4,0,1,0,0,0,0,2,0,0,0,0,0,0,0,"Yu, Clement T",22,SP05
+CS,582,Information Retrieval,2699,Computer Science,9,13,1,0,0,0,0,0,3,0,0,0,0,0,0,0,"Yu, Clement T",26,SP06
+CS,582,Information Retrieval,2699,Computer Science,12,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Yu, Clement T",25,SP07
+CS,582,Information Retrieval,2699,Computer Science,12,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Yu, Clement T",20,SP08
+CS,582,Information Retrieval,2699,Computer Science,12,4,1,0,0,0,0,0,2,0,0,0,0,0,0,0,"Yu, Clement T",19,SP09
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",52,75,67,18,20,0,0,0,0,0,0,0,0,0,0,23,"Lee, Matthew",255,FA18
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",44,40,27,11,3,0,0,0,1,0,0,0,0,0,0,7,"Bode, Martina",133,FA18
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",94,70,48,25,13,0,0,0,1,0,0,0,0,0,0,16,"Steenbergen, John",267,FA18
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",83,64,52,19,9,0,0,0,0,0,0,0,0,0,0,11,"Bode, Martina",238,FA19
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",90,76,49,30,17,0,0,0,1,0,0,0,0,0,0,17,"Lee, Matthew",280,FA19
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",37,32,28,11,5,0,0,0,0,0,0,0,0,0,0,6,"Diep, Vi B",119,SP24
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",92,45,35,8,12,0,0,0,0,0,0,0,0,0,0,9,"Bridges, Mercer Truett",201,FA24
+STAT,101,Introduction to Statistics,2610,"Math, Statistics, & Comp Scnc",68,60,76,18,12,0,0,0,0,0,0,0,0,0,0,14,"Barajas, Wilson",248,FA18
+STAT,101,Introduction to Statistics,2610,"Math, Statistics, & Comp Scnc",15,27,6,3,1,0,0,0,0,0,0,0,0,0,0,2,Grad Asst,54,FA18
+STAT,101,Introduction to Statistics,2610,"Math, Statistics, & Comp Scnc",40,35,28,10,6,0,0,0,0,0,0,0,0,0,0,10,"Embers, Dale Gene",129,FA19
+STAT,101,Introduction to Statistics,2610,"Math, Statistics, & Comp Scnc",33,36,35,14,5,0,0,0,0,0,0,0,0,0,0,9,"Barajas, Wilson",132,FA19
+STAT,101,Introduction to Statistics,2610,"Math, Statistics, & Comp Scnc",102,85,32,18,25,0,0,0,0,0,0,0,0,0,0,21,"Barajas, Wilson",283,FA20
+STAT,101,Introduction to Statistics,2610,"Math, Statistics, & Comp Scnc",76,74,44,27,36,0,0,0,0,0,0,0,0,0,0,18,"Barajas, Wilson",275,FA21
+CS,582,Information Retrieval,2699,Computer Science,25,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Caragea, Cornelia Alexandra",38,SP19
+CS,582,Information Retrieval,2699,Computer Science,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Caragea, Cornelia Alexandra",47,SP20
+MATH,180,Calculus I,2610,"Math, Statistics, & Comp Scnc",71,52,60,20,18,0,0,0,0,0,0,0,0,0,0,16,"Bode, Martina",237,FA21
+STAT,101,Introduction to Statistics,2610,"Math, Statistics, & Comp Scnc",41,28,18,11,14,0,0,0,0,0,0,0,0,0,0,7,"Embers, Dale Gene",119,FA20

@@ -1,0 +1,18 @@
+# Python
+project/.venv/
+project/__pycache__/
+project/.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor stuff
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*

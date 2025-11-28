@@ -1,0 +1,17 @@
+[project]
+name = "uicourseai"
+version = "0.1.0"
+description = "UICourseAI - CLI chatbot MVP over DuckDB warehouse"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "duckdb==1.1.3",
+  "PyYAML==6.0.2",
+  "rich==13.9.4"
+]
+
+[project.scripts]
+uicourseai = "chatbot.main_cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

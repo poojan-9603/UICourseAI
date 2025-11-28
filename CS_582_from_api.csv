@@ -1,0 +1,16 @@
+subject,class_num,class_title,dept_code,dept_name,A,B,C,D,F,adv,credit,deferred,incomplete,non_graded,not_reported,O,PR,satisfactory,unsatisfactory,withdrawn,instructor,total_students,semester
+CS,582,Information Retrieval,2699,Computer Science,34,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Caragea, Cornelia Alexandra",45,FA18
+CS,582,Information Retrieval,2699,Computer Science,15,4,0,1,0,0,0,0,2,0,0,0,0,0,0,0,"Yu, Clement T",22,SP05
+CS,582,Information Retrieval,2699,Computer Science,9,13,1,0,0,0,0,0,3,0,0,0,0,0,0,0,"Yu, Clement T",26,SP06
+CS,582,Information Retrieval,2699,Computer Science,12,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Yu, Clement T",25,SP07
+CS,582,Information Retrieval,2699,Computer Science,12,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,"Yu, Clement T",20,SP08
+CS,582,Information Retrieval,2699,Computer Science,12,4,1,0,0,0,0,0,2,0,0,0,0,0,0,0,"Yu, Clement T",19,SP09
+CS,582,Information Retrieval,2699,Computer Science,14,6,1,0,0,0,0,0,4,0,0,0,0,0,0,0,"Yu, Clement T",25,SP10
+CS,582,Information Retrieval,2699,Computer Science,15,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Yu, Clement T",28,SP11
+CS,582,Information Retrieval,2699,Computer Science,14,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Yu, Clement T",29,SP12
+CS,582,Information Retrieval,2699,Computer Science,12,16,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Yu, Clement T",30,SP13
+CS,582,Information Retrieval,2699,Computer Science,13,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Yu, Clement T",27,SP14
+CS,582,Information Retrieval,2699,Computer Science,25,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Caragea, Cornelia Alexandra",38,SP19
+CS,582,Information Retrieval,2699,Computer Science,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Caragea, Cornelia Alexandra",47,SP20
+CS,582,Information Retrieval,2699,Computer Science,30,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Caragea, Cornelia Alexandra",33,SP21
+CS,582,Information Retrieval,2699,Computer Science,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Caragea, Cornelia Alexandra",42,FA22

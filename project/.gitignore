@@ -1,0 +1,9 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual env (we’ll add one later)
+.venv/
+
+# OS/editor noise
+.DS_Store

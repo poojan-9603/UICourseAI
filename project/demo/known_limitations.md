@@ -1,0 +1,4 @@
+- Keyword matching is rule-based (no full LLM yet).
+- Instructor matching is partial-string; names may collide.
+- Results are section-level, not aggregated to instructor-overall (yet).
+- Requires warehouse Parquet to be present and up-to-date.

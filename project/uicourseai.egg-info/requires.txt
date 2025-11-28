@@ -1,0 +1,4 @@
+duckdb
+rich
+pyyaml
+matplotlib

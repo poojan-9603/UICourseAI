@@ -1,0 +1,276 @@
+﻿CRS SUBJ CD,CRS NBR,CRS TITLE,DEPT CD,DEPT NAME,A,B,C,D,F,ADV,CR,DFR,I,NG,NR,O,PR,S,U,W,Primary Instructor,Grade Regs
+BME,101,Intro Biomedical Engineering,2437,Biomedical Eng - Engineering,56,15,7,3,4,0,0,0,2,0,0,0,0,0,0,3,"Wang, Zhinan",90
+BME,102,Biomed Eng Freshman Seminar,2437,Biomedical Eng - Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,1,"Shokuhfar, Tolou",60
+BME,205,Biomed Eng Thermodynamics,2437,Biomedical Eng - Engineering,7,10,11,4,0,0,0,0,0,0,0,0,0,0,0,1,"Penalver Bernabe, Beatriz",33
+BME,240,Modeling Data and Systems,2437,Biomedical Eng - Engineering,39,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Avanaki, Kamran",51
+BME,250,Clinical Problems Biomed Eng,2437,Biomedical Eng - Engineering,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hetling, John R",25
+BME,310,Biosystems Analysis,2437,Biomedical Eng - Engineering,30,6,2,4,0,0,0,1,0,0,0,0,0,0,0,1,"Linninger, Andreas A",44
+BME,325,Biotransport,2437,Biomedical Eng - Engineering,22,11,7,2,0,0,0,0,0,0,0,0,0,0,0,0,"Peng, Zhangli",42
+BME,332,Bioinstrumentation I,2437,Biomedical Eng - Engineering,9,11,9,3,0,0,0,0,0,0,0,0,0,0,0,0,"Wang, Zhinan",32
+BME,333,Bioinstrumentation Lab I,2437,Biomedical Eng - Engineering,18,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wang, Zhinan",35
+BME,339,Biostatistics I,2437,Biomedical Eng - Engineering,7,10,13,0,1,0,0,0,0,0,0,0,0,0,0,1,"Dai, Yang",32
+BME,396,Senior Design I,2437,Biomedical Eng - Engineering,36,29,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Browne, Michael Gordon",71
+BME,410,Medical Device Requirements,2437,Biomedical Eng - Engineering,18,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Browne, Michael Gordon",29
+BME,421,Biomedical Imaging,2437,Biomedical Eng - Engineering,10,9,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Klatt, Dieter",22
+BME,460,Materials in Biomed Eng,2437,Biomedical Eng - Engineering,30,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Shokuhfar, Tolou",46
+BME,472,Models of the Nervous System,2437,Biomedical Eng - Engineering,18,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Patton, James",30
+BME,480,Intro to Bioinformatics,2437,Biomedical Eng - Engineering,7,7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Lin, Meishan",17
+BME,481,Bioinformatics Laboratory,2437,Biomedical Eng - Engineering,21,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lin, Meishan",24
+BME,504,Emerging Medical Tech,2437,Biomedical Eng - Engineering,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Layton, Terry N",10
+BME,525,Phys & Cellular Biomech Forces,2437,Biomedical Eng - Engineering,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lee, James Chakman",37
+BME,534,Advanced Machine Learning,2437,Biomedical Eng - Engineering,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Liao, Wei-Hsun",14
+BME,548,Nanoscale Biomedical Eng,2437,Biomedical Eng - Engineering,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,"Papautsky, Ian",15
+BME,562,Biomedical Implants,2437,Biomedical Eng - Engineering,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mathew Thoppil, Mathew",14
+BME,568,Emerging Optical Imaging Tech,2437,Biomedical Eng - Engineering,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Yao, Xincheng",14
+BME,576,Sensory Prostheses,2437,Biomedical Eng - Engineering,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Esmailbeigi, Hananeh",14
+BME,595,Seminar Biomedical Engineering,2437,Biomedical Eng - Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,"Takoudis, Christos G",30
+BME,599,Ph.D. Thesis Research,2437,Biomedical Eng - Engineering,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,"Khetani, Salman",10
+BME,599,Ph.D. Thesis Research,2437,Biomedical Eng - Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Yao, Xincheng",10
+CHE,150,Climate Eng for Global Warming,2709,Chemical Engrg,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Singh, Meenesh Rajpal",10
+CHE,201,Intro to Thermodynamics,2709,Chemical Engrg,26,13,1,0,1,0,0,0,0,0,0,0,0,0,0,3,"Bilgin, Betul",44
+CHE,205,Computational Methods in ChE,2709,Chemical Engrg,26,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Mehraeen, Shafigh",36
+CHE,210,Material & Energy Balances,2709,Chemical Engrg,2,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Wedgewood, Lewis E",16
+CHE,301,Chem Engr Thermodynamics,2709,Chemical Engrg,2,7,2,0,0,0,0,0,0,0,0,0,0,0,0,1,"Caracotsios, Michael",12
+CHE,311,Transport Phenomena I,2709,Chemical Engrg,4,6,8,2,0,0,0,0,0,0,0,0,0,0,0,3,"Torabi, Korosh",23
+CHE,312,Transport Phenomena II,2709,Chemical Engrg,5,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,"Takoudis, Christos G",11
+CHE,321,Chemical Reaction Engr,2709,Chemical Engrg,3,1,3,2,3,0,0,0,0,0,0,0,0,0,0,0,"Singh, Meenesh Rajpal",12
+CHE,330,Polymer Science,2709,Chemical Engrg,18,13,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Ibagere, Ezinne Chidiebere",34
+CHE,381,Chem Engr Lab I,2709,Chemical Engrg,11,16,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Zdunek, Alan",32
+CHE,396,Senior Design I,2709,Chemical Engrg,36,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bilgin, Betul",39
+CHE,433,Aspen Plus Process Simulation,2709,Chemical Engrg,8,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Caracotsios, Michael",23
+CHE,453,Fundamentals Electrochemistry,2709,Chemical Engrg,7,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Chaplin, Brian P",11
+CHE,499,Professional Develpmnt Seminar,2709,Chemical Engrg,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,"Zdunek, Alan",42
+CHE,520,Transport Phenomena,2709,Chemical Engrg,2,3,6,0,0,0,0,0,1,0,0,0,0,0,0,0,"Wedgewood, Lewis E",12
+CHE,595,Seminar In Chem Engr Research,2709,Chemical Engrg,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mehraeen, Shafigh",20
+CME,111,The Art of Structural Form,2737,"Civil, Matls & Env Engineering",16,6,8,0,5,0,0,0,0,0,0,0,0,0,0,2,"Foster, Craig",37
+CME,112,Evolution of Infrastructure,2737,"Civil, Matls & Env Engineering",42,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"Banjavcic, Scott David",51
+CME,197,Intro to Civil Environment Eng,2737,"Civil, Matls & Env Engineering",0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,0,"Ataei, Hossein",20
+CME,201,Statics,2737,"Civil, Matls & Env Engineering",68,26,18,11,18,0,0,0,0,0,0,0,0,0,0,4,"Banjavcic, Scott David",145
+CME,203,Strength Of Materials,2737,"Civil, Matls & Env Engineering",32,45,19,4,4,0,0,0,0,0,0,0,0,0,0,6,"Karpov, Eduard",110
+CME,205,Structural Analysis I,2737,"Civil, Matls & Env Engineering",15,14,8,6,4,0,0,0,0,0,0,0,0,0,0,6,"Chi, Sheng-Wei",53
+CME,211,Fluid Mechanics and Hydraulics,2737,"Civil, Matls & Env Engineering",15,24,7,3,4,0,0,0,1,0,0,0,0,0,0,1,"Abokifa, Ahmed",55
+CME,260,Properties Of Materials,2737,"Civil, Matls & Env Engineering",38,41,19,5,0,0,0,0,0,0,0,0,0,0,0,5,"Kadkhodaei, Sara",108
+CME,261,Materials For Manufacturing,2737,"Civil, Matls & Env Engineering",13,18,17,1,0,0,0,0,0,0,0,0,0,0,0,4,"Karpov, Eduard",53
+CME,290,Engineering Surveying,2737,"Civil, Matls & Env Engineering",30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Peiravian, Farideddin",31
+CME,297,Civil Env Eng Drawing Design,2737,"Civil, Matls & Env Engineering",40,3,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Peiravian, Farideddin",45
+CME,300,Concrete Properties&Compositn,2737,"Civil, Matls & Env Engineering",11,18,9,0,3,0,0,0,0,0,0,0,0,0,0,2,"Issa, Mohsen",43
+CME,301,Behav & Dsgn Metal Struct,2737,"Civil, Matls & Env Engineering",13,19,17,4,0,0,0,0,0,0,0,0,0,0,0,0,"Iranmanesh, Amirhossein",53
+CME,302,Transportation Engr,2737,"Civil, Matls & Env Engineering",20,26,11,4,1,0,0,0,0,0,0,0,0,0,0,0,"Zou, Bo",62
+CME,310,Reinforc Concrete Struc Design,2737,"Civil, Matls & Env Engineering",20,14,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"Iranmanesh, Amirhossein",37
+CME,311,Water Resources Engineering,2737,"Civil, Matls & Env Engineering",38,20,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"Schulenberg, Joseph W",63
+CME,315,Soil Mechanics & Lab,2737,"Civil, Matls & Env Engineering",24,18,3,2,1,0,0,0,0,0,0,0,0,0,0,1,"Reddy, Krishna R",49
+CME,322,Environmental Engineering,2737,"Civil, Matls & Env Engineering",11,14,17,6,1,0,0,0,1,0,0,0,0,0,0,1,"Khodadoust, Amid",51
+CME,396,Civil Engr Systems Design,2737,"Civil, Matls & Env Engineering",85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Ataei, Hossein",94
+CME,402,Highway Design,2737,"Civil, Matls & Env Engineering",24,14,4,0,0,0,0,0,1,0,0,0,0,0,0,0,"Peiravian, Farideddin",43
+CME,405,Foundation Dsgn& Analysis,2737,"Civil, Matls & Env Engineering",23,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Schulenberg, Joseph W",29
+CME,409,Structural Analysis II,2737,"Civil, Matls & Env Engineering",7,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ansari, Farhad",18
+CME,419,Structural Loads Determination,2737,"Civil, Matls & Env Engineering",14,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Mahamid, Mustafa",17
+CME,422,Wastewater Treatment,2737,"Civil, Matls & Env Engineering",4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,"Stabryla, Lisa",11
+CME,427,Engineering Hydrology,2737,"Civil, Matls & Env Engineering",5,5,3,0,0,0,0,0,0,0,0,0,0,0,0,1,"Burke, Christopher B.",14
+CME,434,Finite Element Analysis I,2737,"Civil, Matls & Env Engineering",6,2,11,6,3,0,0,0,0,0,0,0,0,0,0,2,"Foster, Craig",30
+CME,440,Cities and Sustainability,2737,"Civil, Matls & Env Engineering",14,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Derrible, Sybil Jean Marie",24
+CME,441,City Logistics,2737,"Civil, Matls & Env Engineering",3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lin, Jie",10
+CME,481,Risk Mgmt in Construction,2737,"Civil, Matls & Env Engineering",3,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Karatas, Aslihan",14
+CME,485,Construction Engrg Management,2737,"Civil, Matls & Env Engineering",14,14,4,2,0,0,0,0,0,0,0,0,0,0,0,0,"Ataei, Hossein",34
+CME,493,Seminar,2737,"Civil, Matls & Env Engineering",16,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Iranmanesh, Amirhossein",19
+CME,494,Intro to AI for Civil Engineer,2737,"Civil, Matls & Env Engineering",6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Abokifa, Ahmed",13
+CME,502,Bridge Design II,2737,"Civil, Matls & Env Engineering",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Issa, Mohsen",14
+CME,508,Urban Travel Forecasting,2737,"Civil, Matls & Env Engineering",11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mohammadian, Abolfazl",16
+CME,516,Landfills And Impoundment,2737,"Civil, Matls & Env Engineering",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Reddy, Krishna R",16
+CME,518,Pollution Prevention,2737,"Civil, Matls & Env Engineering",9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Khodadoust, Amid",11
+CME,573,Nanostructured Materials,2737,"Civil, Matls & Env Engineering",7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Daly, Matthew",10
+CME,585,Construction Engrg Project,2737,"Civil, Matls & Env Engineering",7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Ataei, Hossein",15
+CME,587,Construction Estimating & Sch,2737,"Civil, Matls & Env Engineering",15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Karatas, Aslihan",16
+CME,591,Civil &Material Eng Internship,2737,"Civil, Matls & Env Engineering",0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Ataei, Hossein",10
+CS,100,Discovering Computer Science,2699,Computer Science,21,12,5,3,4,0,0,0,0,0,0,0,0,0,0,2,"Bell, John T",47
+CS,107,Intro Comp & Programming,2699,Computer Science,47,67,48,17,11,0,0,0,0,0,0,0,0,0,0,9,"Kidane, Ellen G",199
+CS,109,Prog for Engineers w/MatLab,2699,Computer Science,70,87,52,14,12,0,0,0,1,0,0,0,0,0,0,11,"Riazi, Zeinab",247
+CS,111,Program Design I,2699,Computer Science,36,5,2,4,2,0,0,0,0,0,0,0,0,0,0,3,"Bello Lander, Gonzalo Alejandro",52
+CS,111,Program Design I,2699,Computer Science,51,41,20,9,7,0,0,0,0,0,0,0,0,0,0,7,"Dey, Drishika",135
+CS,111,Program Design I,2699,Computer Science,43,35,18,8,4,0,0,0,0,0,0,0,0,0,0,4,"Franke, Baker E",112
+CS,112,Program Design I Bio Problems,2699,Computer Science,20,31,20,5,9,0,0,0,0,0,0,0,0,0,0,18,"Troy, Patrick A",103
+CS,141,Program Design II,2699,Computer Science,94,65,51,19,16,0,0,0,1,0,0,0,0,0,0,19,"Hodges, Mark Richard",265
+CS,151,Foundations of Computing,2699,Computer Science,88,62,57,17,7,0,0,0,0,0,0,0,0,0,0,9,"Katok, Zoa",240
+CS,151,Foundations of Computing,2699,Computer Science,60,32,45,18,11,0,0,0,1,0,0,0,0,0,0,6,"Reckinger, Shanon Marie",173
+CS,211,Programming Practicum,2699,Computer Science,56,58,17,7,7,0,0,0,0,0,0,0,0,0,0,12,"Hayes, David P",157
+CS,211,Programming Practicum,2699,Computer Science,121,85,21,3,9,0,0,0,0,0,0,0,0,0,0,7,"Reckinger, Scott J",246
+CS,251,Data Structures,2699,Computer Science,60,75,16,1,1,0,0,0,0,0,0,0,0,0,0,9,"Ayala Rodriguez, Daniel",162
+CS,251,Data Structures,2699,Computer Science,74,64,46,9,12,0,0,0,1,0,0,0,0,0,0,22,"Ordentlich, Ethan",228
+CS,261,Machine Organization,2699,Computer Science,61,76,62,20,6,0,0,0,0,0,0,0,0,0,0,8,"Koehler, Adam Thomas",233
+CS,261,Machine Organization,2699,Computer Science,15,26,26,5,3,0,0,0,1,0,0,0,0,0,0,3,"Theys, Mitchell D",79
+CS,277,Technical Comm in Comp Sci,2699,Computer Science,96,19,7,3,0,0,0,0,0,0,0,0,0,0,0,1,"Carson, Jordan Marie",126
+CS,277,Technical Comm in Comp Sci,2699,Computer Science,114,13,7,1,1,0,0,0,0,0,0,0,0,0,0,0,"Cranch, Cody Ingersoll",136
+CS,294,Technical Interview Prep,2699,Computer Science,13,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,"Kanich, Chris",16
+CS,294,Undergraduate TA Seminar,2699,Computer Science,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cranch, Cody Ingersoll",62
+CS,301,Languages and Automata,2699,Computer Science,118,20,6,0,1,0,0,0,0,0,0,0,0,0,0,2,"DasGupta, Bhaskar",147
+CS,301,Languages and Automata,2699,Computer Science,57,50,29,7,1,0,0,0,0,0,0,0,0,0,0,2,"Ibrahim, Omar",146
+CS,341,Programming Language Concepts,2699,Computer Science,64,64,53,23,12,0,0,0,0,0,0,0,0,0,0,9,"Solworth, Jon A",225
+CS,342,Software Design,2699,Computer Science,67,92,58,25,9,0,0,0,0,0,0,0,0,0,0,5,"Hallenbeck, Mark",256
+CS,361,Systems Programming,2699,Computer Science,75,87,44,20,7,0,0,0,0,0,0,0,0,0,0,7,"Maratos, George P",240
+CS,362,Computer Design,2699,Computer Science,127,88,17,2,2,0,0,0,0,0,0,0,0,0,0,2,"McCarty, Evan",238
+CS,362,Computer Design,2699,Computer Science,4,20,6,3,1,0,0,0,0,0,0,0,0,0,0,1,"Theys, Mitchell D",35
+CS,377,Ethical Issues in Computing,2699,Computer Science,77,10,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"Burton, Emanuelle Neuman",90
+CS,377,Ethical Issues in Computing,2699,Computer Science,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4,"Clayville, Kristel",90
+CS,377,Ethical Issues in Computing,2699,Computer Science,23,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Grad Asst,29
+CS,377,Ethical Issues in Computing,2699,Computer Science,19,7,2,0,0,0,0,0,0,0,0,0,0,0,0,2,"Harmon, Zaccheus D",30
+CS,378,Framework-based Development,2699,Computer Science,21,23,14,8,1,0,0,0,1,0,0,0,0,0,0,2,"Buy, Ugo A",70
+CS,411,Artificial Intelligence I,2699,Computer Science,55,20,7,0,0,0,0,0,1,0,0,0,0,0,0,3,"Gmytrasiewicz, Piotr",86
+CS,412,Intro to Machine Learning,2699,Computer Science,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,3,"GU, Zhaochen",156
+CS,415,Computer Vision I,2699,Computer Science,49,37,3,1,0,0,0,0,0,0,0,0,0,0,0,1,"Tang, Wei",91
+CS,418,Introduction to Data Science,2699,Computer Science,75,8,4,0,0,0,0,0,0,0,0,0,0,0,0,3,"Ravi, Sathya",90
+CS,418,Introduction to Data Science,2699,Computer Science,65,29,4,0,1,0,0,0,0,0,0,0,0,0,0,1,"Ziebart, Brian D",100
+CS,421,Language Processing,2699,Computer Science,70,11,3,3,0,0,0,0,0,0,0,0,0,0,0,2,"Parde, Natalie",89
+CS,421,Language Processing,2699,Computer Science,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Zhang, Xinhua",11
+CS,422,User Interface Design,2699,Computer Science,71,35,5,0,0,0,0,0,0,0,0,0,0,0,0,6,"Kerne, Andrew",117
+CS,423,Natural User Interactions,1434,Siebel School Comp & Data Sci,11,20,5,4,0,0,0,0,0,0,0,0,0,0,0,0,"Soni, Nikita Nandish",40
+CS,440,Software Engr I,2699,Computer Science,58,52,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Bell, John T",116
+CS,441,Cloud Computing Objects,2699,Computer Science,38,10,4,4,1,0,0,0,0,0,0,0,0,0,0,10,"Grechanik, Mark",67
+CS,442,Software Engineering II,2699,Computer Science,15,13,2,2,0,0,0,0,0,0,0,0,0,0,0,2,"Bell, John T",34
+CS,450,Intro to Networking,2699,Computer Science,37,18,3,0,0,0,0,0,2,0,0,0,0,0,0,1,"Kshemkalyani, Ajay D",61
+CS,461,Operating Systems,2699,Computer Science,21,14,9,4,11,0,0,0,0,0,0,0,0,0,0,8,"Eriksson, Jakob L",67
+CS,463,Systems Performance,2699,Computer Science,10,12,3,2,5,0,0,0,0,0,0,0,0,0,0,2,"Eriksson, Jakob L",34
+CS,466,Computer Architecture,2949,Electrical & Computer Engr,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,1,"Roohi, Arman",20
+CS,468,Network Security,2699,Computer Science,18,7,3,4,4,0,0,0,0,0,0,0,0,0,0,4,"Polakis, Jason",40
+CS,473,Compiler Design,2699,Computer Science,20,22,8,4,3,0,0,0,0,0,0,0,0,0,0,4,"Ganchinho de Pina, Luis Gabriel",61
+CS,474,Obj-Oriented Langs & Envs,2699,Computer Science,21,27,23,14,1,0,0,0,1,0,0,0,0,0,0,3,"Buy, Ugo A",90
+CS,476,Programming Language Dsgn,2699,Computer Science,29,8,5,1,3,0,0,0,0,0,0,0,0,0,0,4,"Grechanik, Mark",50
+CS,479,Wearables Technology Lab,2437,Biomedical Eng - Engineering,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Esmailbeigi, Hananeh",18
+CS,480,Database Systems,2699,Computer Science,39,37,21,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hayes, David P",97
+CS,480,Database Systems,2699,Computer Science,62,15,7,0,0,0,0,0,0,0,0,0,0,0,0,7,"Kumar, Sidharth",91
+CS,483,Big Data Mining,2699,Computer Science,47,5,5,1,0,0,0,0,0,0,0,0,0,0,0,2,"Cheng, Lu",60
+CS,484,Secure Web App Development,2699,Computer Science,40,20,9,13,3,0,0,0,0,0,0,0,0,0,0,1,"Kanich, Chris",86
+CS,485,Net Operat Syst Progr,2699,Computer Science,8,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Lan, Zhiling",11
+CS,487,Secure Computer Systems,2699,Computer Science,16,14,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"Wang, Xiaoguang",34
+CS,488,Intro to Cryptography,2699,Computer Science,19,24,4,0,0,0,0,0,0,0,0,0,0,0,0,1,"Chakraborti, Anrin",48
+CS,491,Seminar,2699,Computer Science,0,41,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"Di Eugenio, Barbara",48
+CS,499,Prof. Development Seminar,2699,Computer Science,0,0,0,0,0,0,0,0,1,0,0,0,0,149,3,2,"Bell, John T",155
+CS,512,Advanced Machine Learning,2699,Computer Science,15,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"Rooshenas, Amirmohammad",19
+CS,514,App Artificial Intelligence,2699,Computer Science,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Gmytrasiewicz, Piotr",11
+CS,519,Machine Learning on Graphs,2699,Computer Science,31,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Medya, Sourav",37
+CS,520,Causal Inference and Learning,2699,Computer Science,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Zheleva, Elena",28
+CS,522,Human-Computer Interaction,2699,Computer Science,27,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Chattopadhyay, Debaleena",36
+CS,524,Data Visualization & Analytics,2699,Computer Science,22,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Miranda, Fabio",30
+CS,550,Advanced Computer Networks,2699,Computer Science,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Vamanan, Balajee",12
+CS,559,Neural Networks,2949,Electrical & Computer Engr,32,21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Ohannessian, Mesrob Ichkhan",55
+CS,583,Data Mining & Text Mining,2699,Computer Science,20,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Liu, Bing",27
+CS,584,Advanced Data Mining,2699,Computer Science,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"Yu, Philip S",16
+CS,590,Research Methods in CS,2699,Computer Science,0,0,0,0,0,0,0,0,1,0,0,0,0,34,0,0,"Di Eugenio, Barbara",35
+CS,594,Found. of Permissionless Sys.,2699,Computer Science,29,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sidiropoulos, Anastasios",30
+CS,594,Geo. Data Struc. for Data Que.,2699,Computer Science,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sintos, Stavros",30
+CS,598,MS Thesis Research,2699,Computer Science,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,"Di Eugenio, Barbara",21
+CS,599,PhD Thesis Research,2699,Computer Science,0,0,0,0,0,0,0,0,1,0,0,0,0,24,0,0,"Yu, Philip S",25
+ECE,115,Intro to Elec & Cmptr Eng,2949,Electrical & Computer Engr,109,56,36,18,32,0,0,0,3,0,0,0,0,0,0,15,"Kosmach, James",269
+ECE,210,Electric Circuit Analysis,2949,Electrical & Computer Engr,37,85,46,9,3,0,0,0,1,0,0,0,0,0,0,3,"Jin, Ning",184
+ECE,225,Circuit Analysis,2949,Electrical & Computer Engr,22,19,25,5,5,0,0,0,0,0,0,0,0,0,0,6,"Caliskan, Vahe",82
+ECE,265,Intro to Logic Design,2949,Electrical & Computer Engr,35,38,28,13,5,0,0,0,0,0,0,0,0,0,0,3,"Goncharoff, Vladimir",122
+ECE,266,Intro to Embedded Systems,2949,Electrical & Computer Engr,22,34,22,3,1,0,0,0,0,0,0,0,0,0,0,3,"Zhang, Zhao",85
+ECE,310,Discrete &Cont Signal&Systms,2949,Electrical & Computer Engr,28,19,22,5,10,0,0,0,0,0,0,0,0,0,0,9,"Gandhi, Bhavan Raman",93
+ECE,311,Communication Engineering,2949,Electrical & Computer Engr,13,11,10,2,2,0,0,0,0,0,0,0,0,0,0,0,"Devroye, Natasha",38
+ECE,317,DSP I,2949,Electrical & Computer Engr,14,10,2,0,0,0,0,0,1,0,0,0,0,0,0,0,"Soltanalian, Mojtaba",27
+ECE,322,Intro to Electromag and Appl,2949,Electrical & Computer Engr,18,22,7,6,0,0,0,0,0,0,0,0,0,0,0,1,"Erricolo, Danilo",54
+ECE,333,Computer Comm Networks I,2949,Electrical & Computer Engr,20,7,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"Abu Salah, Lo'Ay Mohammad",30
+ECE,340,Electronics I,2949,Electrical & Computer Engr,27,21,24,4,4,0,0,0,0,0,0,0,0,0,0,6,"Caliskan, Vahe",86
+ECE,341,Probabil &Rand Proc for Engr,2949,Electrical & Computer Engr,29,32,21,4,1,0,0,0,0,0,2,0,0,0,0,7,"Gunderman, Lane Gabriel",96
+ECE,342,Electronics II,2949,Electrical & Computer Engr,27,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,"Metlushko, Vitali V",41
+ECE,346,Solid State Device Theory,2949,Electrical & Computer Engr,7,14,6,2,0,0,0,0,0,0,0,0,0,0,0,0,"Shi, Junxia",29
+ECE,347,Integrated Circuit Engr,2949,Electrical & Computer Engr,9,14,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Paprotny, Igor",27
+ECE,350,Principles of Auto Control,2949,Electrical & Computer Engr,6,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Zefran, Milos",13
+ECE,366,Computer Organization,2949,Electrical & Computer Engr,24,14,7,4,4,0,0,0,0,0,0,0,0,0,0,0,"Rao, Wenjing",53
+ECE,396,Senior Design I,2949,Electrical & Computer Engr,96,39,1,0,1,0,0,0,0,0,0,0,0,0,0,1,"Alonso, Matthew Paul",138
+ECE,410,Advanced Circuit Analysis,2949,Electrical & Computer Engr,14,15,11,0,1,0,0,0,0,0,0,0,0,0,0,1,"Goncharoff, Vladimir",42
+ECE,415,Imag Analysis & Compt Visn I,2949,Electrical & Computer Engr,47,29,9,0,0,0,0,0,0,0,0,0,0,0,0,1,"Cetin, Ahmet Enis",86
+ECE,417,Digital Signal Processing II,2949,Electrical & Computer Engr,2,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cetin, Ahmet Enis",10
+ECE,421,Intro to Antenna Propagation,2949,Electrical & Computer Engr,33,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chen, Pai-Yen",35
+ECE,434,Multimedia Systems,2949,Electrical & Computer Engr,5,8,11,5,0,0,0,0,0,0,0,0,0,0,0,1,"Yardimci Cetin, Yasemin",30
+ECE,440,Nanoelectronics,2949,Electrical & Computer Engr,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Metlushko, Vitali V",11
+ECE,451,Priniciples of Modern Control,2949,Electrical & Computer Engr,21,2,5,2,0,0,0,0,0,0,0,0,0,0,0,0,"Jin, Ning",30
+ECE,458,Electromech Energy Conversn,2949,Electrical & Computer Engr,5,7,7,3,0,0,0,0,0,0,0,0,0,0,0,0,"Caliskan, Vahe",22
+ECE,464,Testing and Reliability,2949,Electrical & Computer Engr,6,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"Rao, Wenjing",14
+ECE,465,Digital Systems Design,2949,Electrical & Computer Engr,6,17,8,0,0,0,0,0,0,0,0,0,0,0,0,1,"Pal, Debjit",32
+ECE,466,Computer Architecture,2949,Electrical & Computer Engr,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,1,"Roohi, Arman",48
+ECE,467,Introduc to VLSI Design,2949,Electrical & Computer Engr,20,17,2,1,1,0,0,0,0,0,0,0,0,0,0,2,"Trivedi, Amit",43
+ECE,491,Intro QuantumMaterials&Devices,2949,Electrical & Computer Engr,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chase, Zizwe",18
+ECE,491,Intro to Deep Neural Networks,2949,Electrical & Computer Engr,28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cetin, Ahmet Enis",29
+ECE,499,Prof. Development Seminar,2949,Electrical & Computer Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,"Kosmach, James",40
+ECE,508,Convex Optimization,2949,Electrical & Computer Engr,8,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Han, Shuo",14
+ECE,516,Adaptive Digital Filters,2949,Electrical & Computer Engr,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Corey, Ryan Michael",16
+ECE,523,Antenna Theory and Design,2949,Electrical & Computer Engr,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chen, Pai-Yen",25
+ECE,534,Elements of Info Theory,2949,Electrical & Computer Engr,9,2,2,1,0,0,0,0,2,0,0,0,0,0,0,0,"Devroye, Natasha",16
+ECE,540,Physics Semicond Devices,2949,Electrical & Computer Engr,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Shi, Junxia",11
+ECE,541,Microelectron Fabricatn Tech,2949,Electrical & Computer Engr,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Paprotny, Igor",12
+ECE,559,Neural Networks,2949,Electrical & Computer Engr,16,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ohannessian, Mesrob Ichkhan",33
+ECE,568,Advanced Micro Arch,2949,Electrical & Computer Engr,25,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Zhang, Zhao",28
+ECE,594,High Performance ICs/Systems,2949,Electrical & Computer Engr,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Partin Vaisband, Inna",14
+ECE,595,Departmental Seminar,2949,Electrical & Computer Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,0,"Banerjee, Aritra",57
+ECE,599,PhD Thesis Research,2949,Electrical & Computer Engr,0,0,0,0,0,0,0,0,0,0,1,0,0,9,1,0,"Chen, Pai-Yen",11
+ECE,599,PhD Thesis Research,2949,Electrical & Computer Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,"Partin Vaisband, Inna",11
+ECE,599,PhD Thesis Research,2949,Electrical & Computer Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Shadmand, Mohammad",10
+ENGR,100,BME Success Seminar - FYF,2284,Engineering Admin,0,0,0,0,0,0,0,0,1,0,0,0,0,52,1,3,"Narubin Durbin, Simona Ieva",57
+ENGR,100,BME Success Seminar - Transfer,2284,Engineering Admin,0,0,0,0,0,0,0,0,1,0,0,0,0,10,0,0,"Narubin Durbin, Simona Ieva",11
+ENGR,100,CHE Success Seminar - FYF,2284,Engineering Admin,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,1,"Narubin Durbin, Simona Ieva",10
+ENGR,100,CME Success Seminar - FYF,2284,Engineering Admin,0,0,0,0,0,0,0,0,1,0,0,0,0,56,0,2,"Narubin Durbin, Simona Ieva",59
+ENGR,100,CME Success Seminar - Transfer,2284,Engineering Admin,0,0,0,0,0,0,0,0,1,0,0,0,0,27,1,0,"Narubin Durbin, Simona Ieva",29
+ENGR,100,CS Success Seminar - FYF,2284,Engineering Admin,0,0,0,0,0,0,0,1,8,0,0,0,0,290,6,4,"Narubin Durbin, Simona Ieva",309
+ENGR,100,CS Success Seminar - Transfer,2284,Engineering Admin,0,0,0,0,0,0,0,0,8,0,0,0,0,104,3,4,"Narubin Durbin, Simona Ieva",119
+ENGR,100,ECE Success Seminar - FYF,2284,Engineering Admin,0,0,0,0,0,0,0,0,4,0,0,0,0,158,4,2,"Narubin Durbin, Simona Ieva",168
+ENGR,100,ECE Success Seminar - Transfer,2284,Engineering Admin,0,0,0,0,0,0,0,0,4,0,0,0,0,57,2,1,"Narubin Durbin, Simona Ieva",64
+ENGR,100,Engineering Success Seminar,2284,Engineering Admin,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,1,"Sanders, Elizabeth Anne",18
+ENGR,100,Engr Success Seminar - online,2284,Engineering Admin,0,0,0,0,0,0,0,0,1,0,0,0,0,127,3,6,"Narubin Durbin, Simona Ieva",137
+ENGR,100,MIE Success Seminar - FYF,2284,Engineering Admin,0,0,0,0,0,0,0,0,7,0,0,0,0,131,1,0,"Narubin Durbin, Simona Ieva",139
+ENGR,100,MIE Success Seminar - Transfer,2284,Engineering Admin,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,"Narubin Durbin, Simona Ieva",77
+ENGR,111,Pract Additive Manufacturing,2284,Engineering Admin,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,1,Grad Asst,27
+ENGR,494,DuSable Trailblazing Scholar,2284,Engineering Admin,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Abiade, Jeremiah T",14
+IE,118,Energy for Sustainable Society,2323,Mechanical & Industrial Engr,15,5,2,0,0,0,0,0,1,0,0,0,0,0,0,0,"Alonso, Matthew Paul",23
+IE,201,Financial Engineering,2323,Mechanical & Industrial Engr,45,80,81,17,12,0,0,0,0,0,0,0,0,0,0,11,"Darabi, Houshang",246
+IE,342,Probability & Stat for Engr,2323,Mechanical & Industrial Engr,17,14,18,17,13,0,0,0,0,0,0,0,0,0,0,6,"Li, Lin",85
+IE,342,Probability & Stat for Engr,2323,Mechanical & Industrial Engr,49,52,47,23,16,0,0,0,0,0,0,0,0,0,0,18,"Nicolsen, Brynne E",205
+IE,345,Regr Analysis & Forecast,2323,Mechanical & Industrial Engr,10,14,8,1,0,0,0,0,0,0,0,0,0,0,0,0,"Huang, Jida",33
+IE,365,Work Productivity Analysis,2323,Mechanical & Industrial Engr,26,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Williams, Quintin Levurn",34
+IE,396,Senior Design Project,2323,Mechanical & Industrial Engr,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Michael A",11
+IE,441,Ergonomics & Human Factors,2323,Mechanical & Industrial Engr,6,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kim, Hyungil",15
+IE,461,Safety Engineering,2323,Mechanical & Industrial Engr,30,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Williams, Quintin Levurn",43
+IE,467,Discrete Event Simulation,2323,Mechanical & Industrial Engr,6,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,"Li, Lin",18
+IE,471,Operations Research I,2323,Mechanical & Industrial Engr,26,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Williams, Quintin Levurn",35
+IE,473,Stochastic Processes & Queuing,2323,Mechanical & Industrial Engr,36,2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"He, David Weihua",40
+IE,594,AI in Advanced Manufacturing,2323,Mechanical & Industrial Engr,7,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Haghighi, Azadeh",15
+IE,594,Data Science 1,2323,Mechanical & Industrial Engr,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Anahideh, Hadis",13
+IE,595,Industrial Engineering Seminar,2323,Mechanical & Industrial Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,"Hatami Marbini, Hamed",63
+ME,118,Energy for Sustainable Society,2323,Mechanical & Industrial Engr,10,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Alonso, Matthew Paul",14
+ME,205,Intro to Thermodynamics,2323,Mechanical & Industrial Engr,28,26,13,4,6,0,0,0,0,0,0,0,0,0,0,2,"Manafzadeh, Saeed",79
+ME,205,Intro to Thermodynamics,2323,Mechanical & Industrial Engr,13,19,14,4,0,0,0,0,2,0,0,0,0,0,0,3,"Megaridis, Constantine M",55
+ME,210,Engineering Dynamics,2323,Mechanical & Industrial Engr,50,22,5,2,2,0,0,0,0,0,1,0,0,0,0,2,"Lilley, Carmen M",84
+ME,211,Fluid Mechanics l,2323,Mechanical & Industrial Engr,23,32,8,1,0,0,0,0,0,0,0,0,0,0,0,1,"Jung, Eunjung",65
+ME,211,Fluid Mechanics l,2323,Mechanical & Industrial Engr,14,8,14,5,0,0,0,0,0,0,0,0,0,0,0,1,"Xu, Jie",42
+ME,250,Intro to Engineering Design,2323,Mechanical & Industrial Engr,77,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Siow, Yeow",88
+ME,250,Intro to Engineering Design,2323,Mechanical & Industrial Engr,71,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Szwalek, Jamison",88
+ME,261,Materials for Manufacturing,2737,"Civil, Matls & Env Engineering",10,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"Karpov, Eduard",23
+ME,308,Mechanical Vibrations,2323,Mechanical & Industrial Engr,7,12,5,4,0,0,0,0,0,0,0,0,0,0,0,1,"Shabana, Ahmed",29
+ME,308,Mechanical Vibrations,2323,Mechanical & Industrial Engr,38,8,5,3,0,0,0,0,0,0,0,0,0,0,0,1,"Siow, Yeow",55
+ME,312,Dynamic Syst & Control,2323,Mechanical & Industrial Engr,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,"Cetin, Sabri",18
+ME,312,Dynamic Syst & Control,2323,Mechanical & Industrial Engr,28,20,7,4,0,0,0,0,0,0,0,0,0,0,0,0,"Kim, Myunghee",59
+ME,320,Mechanisms&Dynamics/Machinery,2323,Mechanical & Industrial Engr,50,14,7,1,1,0,0,0,0,0,0,0,0,0,0,3,"Brown, Michael A",76
+ME,321,Heat Transfer,2323,Mechanical & Industrial Engr,16,22,5,2,0,0,0,0,0,0,0,0,0,0,0,1,"Jung, Eunjung",46
+ME,321,Heat Transfer,2323,Mechanical & Industrial Engr,9,12,7,0,1,0,0,0,0,0,0,0,0,0,0,1,"Xu, Jie",30
+ME,325,Intermediate Thermodynamics,2323,Mechanical & Industrial Engr,14,13,11,11,7,0,0,0,0,0,0,0,0,0,0,5,"Ghashami, Mohammad",61
+ME,328,Numerical Methods in ME,2323,Mechanical & Industrial Engr,21,16,23,13,2,0,0,0,0,0,0,0,0,0,0,2,"Bhounsule, Pranav Audhut",77
+ME,341,Exp Methods in Mech Engr,2323,Mechanical & Industrial Engr,47,10,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"Szwalek, Jamison",59
+ME,347,Computer-Aided Design,2323,Mechanical & Industrial Engr,11,6,4,3,2,0,0,0,0,0,0,0,0,0,0,1,"Hatami Marbini, Hamed",27
+ME,370,Mechanical Engineering Design,2323,Mechanical & Industrial Engr,27,33,13,4,0,0,0,0,0,0,0,0,0,0,0,0,"Finan, John Desmond",77
+ME,380,Manufacturing Process Princ,2323,Mechanical & Industrial Engr,7,14,8,5,0,0,0,0,0,0,0,0,0,0,0,0,"Abiade, Jeremiah T",34
+ME,380,Manufacturing Process Princ,2323,Mechanical & Industrial Engr,12,35,7,1,0,0,0,0,0,0,0,0,0,0,0,0,"Subramanian, Arunkumar",55
+ME,396,Senior Design I,2323,Mechanical & Industrial Engr,27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Michael A",28
+ME,396,Senior Design I,2323,Mechanical & Industrial Engr,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Scott, Michael J",91
+ME,396,Senior Design Project,2323,Mechanical & Industrial Engr,33,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brown, Michael A",37
+ME,410,Automation & Robotics Applic,2323,Mechanical & Industrial Engr,26,6,0,0,2,0,0,0,1,0,0,0,0,0,0,3,"Bhounsule, Pranav Audhut",38
+ME,411,Mechatronics I,2323,Mechanical & Industrial Engr,38,7,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"Kim, Myunghee",48
+ME,419,Compressible Flow Theory,2323,Mechanical & Industrial Engr,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brezinsky, Kenneth",11
+ME,429,Internal Combustion Engines,2323,Mechanical & Industrial Engr,5,4,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"Manafzadeh, Saeed",13
+ME,481,Additive Manufacturing Process,2323,Mechanical & Industrial Engr,15,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"Pan, Yayue",26
+ME,494,ME Math,2323,Mechanical & Industrial Engr,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Yarin, Alexander",15
+ME,499,Prof Development Seminar,2323,Mechanical & Industrial Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,1,"Nicolsen, Brynne E",41
+ME,502,Applied Stress Analysis II,2323,Mechanical & Industrial Engr,25,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Shahbazian-Yassar, Reza",27
+ME,562,Biomedical Implants,2437,Biomedical Eng - Engineering,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mathew Thoppil, Mathew",29
+ME,595,Mechanical Engineering Seminar,2323,Mechanical & Industrial Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,130,0,2,"Hatami Marbini, Hamed",132
+ME,599,PhD Thesis Research,2323,Mechanical & Industrial Engr,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"Sankaranarayanan, Subramanian",10
+MENG,404,Math Fundamentals AI Engineers,2284,Engineering Admin,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Shulman, Andrew M",13
+MENG,407,Innovation Tools and Methods,2284,Engineering Admin,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Hallenbeck, Mark",19

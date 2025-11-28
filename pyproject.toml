@@ -1,0 +1,16 @@
+[project]
+name = "uicourseai"
+version = "0.1.0"
+description = "UICourseAI — AI chatbot for course analytics"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["duckdb", "rich", "pyyaml", "matplotlib", "openai"]
+
+[project.scripts]
+uicourseai = "chatbot.main_cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "project"}
+
+[tool.setuptools.packages.find]
+where = ["project"]

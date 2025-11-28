@@ -1,0 +1,6 @@
+easy cs 580
+hard cs 580
+show easy ml courses
+easy data cs recent
+details cs 580 yu
+easy 500-level ml recent --explain
