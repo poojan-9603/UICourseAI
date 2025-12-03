@@ -5,9 +5,9 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Any, Dict, List
 
-from chatbot.llm_intent import parse_with_llm
-from chatbot.intent import parse
-from chatbot.actions import rank_professors
+from project.chatbot.llm_intent import parse_with_llm
+from project.chatbot.intent import parse
+from project.chatbot.actions import rank_professors
 
 app = FastAPI(title="UICourseAI API")
 
