@@ -7,8 +7,10 @@ from datetime import datetime
 
 log = logging.getLogger("chatbot.actions")
 
-WAREHOUSE_DEFAULT = Path("data/warehouse/grades_master.parquet")
-CONFIG_PATH = Path("config/app.yaml")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+WAREHOUSE_DEFAULT = PROJECT_ROOT / "data" / "warehouse" / "grades_master.parquet"
+CONFIG_PATH = PROJECT_ROOT / "config" / "app.yaml"
 
 
 def _load_config() -> Dict:
